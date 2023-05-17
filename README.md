@@ -427,5 +427,6 @@ $$ \text{SET - 2 : for } \gamma = 0.0005  $$
 ##### Future Work:
 
 - The model can be improved by using a larger dataset.
-- The model can be improved by reducing the threshold value of clustering
-- The time complexity of the model can be reduced.
+- The model can be improved by reducing the threshold value of clustering.
+- Images with 3 channels (coloured images) can be used.
+- Adjusting the value of γ
