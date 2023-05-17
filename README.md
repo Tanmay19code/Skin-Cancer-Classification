@@ -65,7 +65,7 @@ This set consists of 2357 images of malignant and benign oncological diseases, w
 |     Total                  |    2357      |     2239     |      118    |
 
 
-![Dataset Image](./assets/dataset/dataset_images.png)
+![Dataset Image](./assets/dataset_images.png)
 
 #### Flow chart:
 
