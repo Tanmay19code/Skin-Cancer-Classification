@@ -27,7 +27,7 @@ This set consists of 2357 images of malignant and benign oncological diseases, w
 > - melanoma
 > - nevus
 > - pigmented benign keratosis
-> - -seborrheic keratosis
+> - seborrheic keratosis
 > - squamous cell carcinoma
 > - vascular lesion
 
@@ -66,10 +66,18 @@ This set consists of 2357 images of malignant and benign oncological diseases, w
 
 
 ![Dataset Image](./assets/dataset_images.png)
-
+&nbsp;
+&nbsp;
+&nbsp;
 #### Flow chart:
 
-![Flow Chart](./assets/flowchart.png)
+&nbsp;
+&nbsp;
+&nbsp;
+
+<!-- <center> -->
+![Flow Chart](./assets/flowchart//flowchart.png)
+<!-- </center> -->
 
 #### Data Preprocessing:
 
